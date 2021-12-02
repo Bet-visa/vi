@@ -1,2 +1,2 @@
 # VN
-BetVisa Club VN
+BetVisa Club Nam
