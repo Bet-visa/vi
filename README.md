@@ -1,2 +1,2 @@
-# VN
-BetVisa Club Nam
+# BetVisa Club
+Bets Online Gambling BetVisa Club Việt Nam
