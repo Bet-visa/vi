@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Betvisa Club
+about: Bets Online Gambling no.1 asia
 title: 'Betvisa Club'
 labels: 'Betvisa, Betvisa Club'
-assignees: 'Bets Online Gambling no.1 asia'
+assignees: 'Nguyễn Quang An'
 
 ---
 
